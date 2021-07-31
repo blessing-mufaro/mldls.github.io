@@ -1,0 +1,1 @@
+The Machine Learning and Deep Learning Show 2021 hosted by Microsoft Student Ambassadors. This repository contains the official webpage and proof of participation for students that attended the 4 week programme.
